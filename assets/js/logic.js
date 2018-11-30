@@ -6,5 +6,6 @@ $("#factButton").on("click", function() {
 	$("#factText").text(catFactArray[number])
 })
 
-// This array holds all of our Grumpy Cat facts!
-var catFactArray = ["Grumpy was born on April 4, 2012", "Grumpy's unique look comes from feline dwarfism and an underbite", "Grumpy has a brother named Pokey", "Her favorite Friskies food is Savory Shreds"]
+// This array holds all of our Magic 8 Ball facts!
+// Magic 8 Ball Responses retrieved from https://en.wikipedia.org/wiki/Magic_8-Ball 
+var booFacts = ["It is certain.", "It is decidedly so.", "Without a doubt.", "Yes - definitely.", "You may rely on it.", "As I see it, yes.", "Most likely.", "Outlook good.", "Yes.", "Signs point to yes.", "Reply hazy, try again.", "Ask again later.", "Better not tell you now.", "Cannot predict now.", "Concentrate and ask again.", "Don't count on it.", "My reply is no.", "My sources say no.", "Outlook not so good.", "Very doubtful." ]
