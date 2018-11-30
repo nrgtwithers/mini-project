@@ -1,3 +1,4 @@
 body{
-    background-image: url(../images/Magic_eight_ball.png)
+    background-image: url(../images/Magic_eight_ball.png);
+    background-repeat: no-repeat;
 }
